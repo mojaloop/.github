@@ -4,6 +4,7 @@
     <img src="https://raw.githubusercontent.com/mojaloop/.github/main/profile/mojaloop_logo.png"/>
   </a>
 </p>
+
 # Welcome to the Mojaloop Open Source Site on Github
 
 * Review the documentation: http://mojaloop.io/documentation
