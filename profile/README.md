@@ -9,4 +9,4 @@
 
 * Review the documentation: http://mojaloop.io/documentation
 * Join the Conversation on Slack: https://mojaloop.io/slack
-* Latest Mojaloop release: https://github.com/mojaloop/helm/releases/tag/v16.0.0
+* Latest Mojaloop release: https://github.com/mojaloop/helm/releases/tag/v17.0.0
